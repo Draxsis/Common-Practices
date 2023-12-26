@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotinProjects.GuessNumberGame", "DotinProjects.GuessNumberGame\DotinProjects.GuessNumberGame.csproj", "{A679CC2B-0600-4463-AAC0-50C5F0F9FA13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotinProjects.ToolkitLibrary", "DotinProjects.ToolkitLibrary\DotinProjects.ToolkitLibrary.csproj", "{2E03114D-4831-4E85-81B7-13E09C011210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotinProjects.CommonPractices", "DotinProjects.CommonPractices\DotinProjects.CommonPractices.csproj", "{586C2A56-7D96-4BFA-9CDB-4D86345E44AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotinProjects.WinAppSimpleCalculator", "DotinProjects.WinAppSimpleCalculator\DotinProjects.WinAppSimpleCalculator.csproj", "{A4877C25-338E-4A5D-AC3C-1CF6F6886E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotinProjects.Models", "DotinProjects.Models\DotinProjects.Models.csproj", "{6D3E3EE6-404C-4D39-A87F-ABFF27360E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A679CC2B-0600-4463-AAC0-50C5F0F9FA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A679CC2B-0600-4463-AAC0-50C5F0F9FA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A679CC2B-0600-4463-AAC0-50C5F0F9FA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A679CC2B-0600-4463-AAC0-50C5F0F9FA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E03114D-4831-4E85-81B7-13E09C011210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E03114D-4831-4E85-81B7-13E09C011210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E03114D-4831-4E85-81B7-13E09C011210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E03114D-4831-4E85-81B7-13E09C011210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586C2A56-7D96-4BFA-9CDB-4D86345E44AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586C2A56-7D96-4BFA-9CDB-4D86345E44AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586C2A56-7D96-4BFA-9CDB-4D86345E44AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586C2A56-7D96-4BFA-9CDB-4D86345E44AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4877C25-338E-4A5D-AC3C-1CF6F6886E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4877C25-338E-4A5D-AC3C-1CF6F6886E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4877C25-338E-4A5D-AC3C-1CF6F6886E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4877C25-338E-4A5D-AC3C-1CF6F6886E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3E3EE6-404C-4D39-A87F-ABFF27360E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3E3EE6-404C-4D39-A87F-ABFF27360E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3E3EE6-404C-4D39-A87F-ABFF27360E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3E3EE6-404C-4D39-A87F-ABFF27360E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5E0CA5-702D-41E1-AF7B-6F7AE49C99DF}
+	EndGlobalSection
+EndGlobal
